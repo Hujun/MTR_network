@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "POA2HAH"
+        "name": POA2HAH"
       },
       "geometry": {
         "type": "LineString",
@@ -99,6 +99,7 @@
           [
             114.2599555850029,
             22.3073935283808
+
           ]
         ]
       }
