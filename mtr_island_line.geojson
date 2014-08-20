@@ -3,9 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "SHW2CEN"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -30,15 +28,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "CEN2ADM"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             114.15819525718689,
-            22.281516797603807
+            22.281514315669742
           ],
           [
             114.15877997875214,
@@ -77,14 +73,12 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "ADM2WAC"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            114.16552037000655,
+            114.16552305221558,
             22.27901002174767
           ],
           [
@@ -112,15 +106,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "WAC2CAB"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            114.17324513196945,
-            22.27756302077365
+            114.17324781417847,
+            22.27756550277784
           ],
           [
             114.17711019515991,
@@ -139,9 +131,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "CAB2TIH"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -186,15 +176,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "TIH2FOH"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             114.19208228588104,
-            22.28235817071434
+            22.282360652633415
           ],
           [
             114.19249266386032,
@@ -229,15 +217,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "FOH2NOP"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             114.19323027133942,
-            22.287637113005687
+            22.287642076656407
           ],
           [
             114.1949388384819,
@@ -268,15 +254,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "NOP2QUB"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             114.20087456703186,
-            22.29114885183175
+            22.291151333594765
           ],
           [
             114.20281648635864,
@@ -311,15 +295,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "QUB2TAK"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            114.20830160379408,
-            22.289123718514777
+            114.2083042860031,
+            22.289116273117553
           ],
           [
             114.21030789613724,
@@ -346,14 +328,12 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "TAK2SWH"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            114.21636164188384,
+            114.21636432409286,
             22.284445449108016
           ],
           [
@@ -385,15 +365,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "SWH2SKW"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            114.22228932380676,
-            22.281606147200947
+            114.22229200601578,
+            22.28160366526847
           ],
           [
             114.22256559133528,
@@ -428,9 +406,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "SKW2HFC"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -471,15 +447,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "HFC2CHW"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            114.23978805541991,
-            22.276557805452523
+            114.23979341983795,
+            22.276552841408318
           ],
           [
             114.24071341753005,
